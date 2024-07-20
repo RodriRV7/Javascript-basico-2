@@ -7,7 +7,7 @@
 
             // crear variables
             let universidad = "utiki"; //string
-            //funcion typeof muestra el tipo de dato
+            //funcion typeof muestra el tipo de datos
             console.log(typeof(universidad));
             let edad = 45; //
             console.log(typeof(edad));
